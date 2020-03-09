@@ -1,11 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 18E6-0C9A
-
- Directory of C:\Users\User\Desktop\GITprojectz
-
-03/09/2020  01:24 PM    <DIR>          .
-03/09/2020  01:24 PM    <DIR>          ..
-03/09/2020  01:24 PM               357 txt1.txt
-03/09/2020  01:24 PM                 0 txt2.txt
-               2 File(s)            357 bytes
-               2 Dir(s)  173,345,779,712 bytes free
+test49
